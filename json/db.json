@@ -1,0 +1,16 @@
+[
+    {"name":"Papas fritas con cheddar, panceta y verdeo","type": "Food","price": 990,"id": "f1"},
+    {"name":"Pizza napo con provenzal","type": "Food","price": 1560,"id": "f2"},
+    {"name":"Pizza especial con jamón y morrón","type": "Food","price": 1590,"id": "f3"},
+    {"name":"Pizza muzzarella","type": "Food","price": 1560,"id": "f4"},
+    {"name":"Pinchos de pollo y verduras asadas","type": "Food","price": 1560,"id": "f5"},
+    {"name":"Empanadas al horno (carne)","type": "Food","price": 1560,"id": "f6"},
+    {"name":"Coca Cola 500ml","type": "Drink","price": 350,"id": "d1"},
+    {"name":"Sprite 500ml","type": "Drink","price": 350,"id": "d2"},
+    {"name":"Pinta cerveza IPA","type": "Drink","price": 450,"id": "d3"},
+    {"name":"Pinta cerveza Porter","type": "Drink","price": 450,"id": "d4"},
+    {"name":"Pinta cerveza Golden","type": "Drink","price": 450,"id": "d5"},
+    {"name":"Agua saborizada","type": "Drink","price": 350,"id": "d6"},
+    {"name":"Agua s/gas","type": "Drink","price": 300,"id": "d7"},
+    {"name":"Jarra de Limonada 1l","type": "Drink","price": 900,"id": "d8"}
+]
